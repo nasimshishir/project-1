@@ -1,3 +1,4 @@
+/* First Section */
 body {
     margin: 0;
     font-family: 'Poppins', sans-serif;
@@ -29,7 +30,11 @@ h1 span {
     color: orange;
 }
 
-.hireme-btn {
+p {
+    margin-bottom: 30px;
+}
+
+#btn {
     text-decoration: none;
     background: linear-gradient(45deg, lightsalmon, tomato);
     padding: 10px 40px;
@@ -42,3 +47,5 @@ h1 span {
 .boxes img {
     width: 100%;
 }
+
+/* Second section */
