@@ -1,7 +1,44 @@
-body{
-    margin: 0px 100px;
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+section {
+    height: 500px;
+    margin-bottom: 160px;
+}
+
+.hero {
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+
+.boxes {
+    width: 40%;
+    float: left;
+    margin: 5%;
 }
 
 h1 {
+    font-size: 50px;
+    font-weight: 600;
+    margin: 0;
+}
+
+h1 span {
     color: orange;
+}
+
+.hireme-btn {
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 4px;
+    color: white;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+}
+
+.boxes img {
+    width: 100%;
 }
