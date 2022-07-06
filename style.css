@@ -9,7 +9,7 @@ section {
 }
 
 .hero {
-    padding-top: 5%;
+    padding-top: 4%;
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
 }
@@ -44,6 +44,10 @@ p {
     color: white;
     font-weight: 500;
     letter-spacing: 1.5px;
+}
+
+.boxes .welcome {
+    margin-top: 40px;
 }
 
 .boxes img {
